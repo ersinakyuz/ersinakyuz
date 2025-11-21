@@ -8,11 +8,11 @@
 <!-- Social Icons -->
 <p align="center">
   <a href="https://www.ersinakyuz.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" width="32" height="32" />
+    <img src="https://github.com/ersinakyuz.png" alt="Website" width="32" height="32" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ersinakyuz/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="32" height="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/ersinakyuz" target="_blank">
