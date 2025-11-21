@@ -3,7 +3,6 @@
 
 <p align="center">
   Backend Developer • DevOps Engineer • 20+ years building reliable systems<br/>
-  <em>"Everything is figure-out-able."</em>
 </p>
 
 <!-- Social Icons -->
@@ -12,15 +11,15 @@
     <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" width="32" height="32" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/ersinakyuz/" target="_blank">
     <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="32" height="32" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/YOUR-GITHUB" target="_blank">
+  <a href="https://github.com/ersinakyuz" target="_blank">
     <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="32" height="32" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@YOUR-CHANNEL" target="_blank">
+  <a href="https://www.youtube.com/@ersinakyuz" target="_blank">
     <img src="https://cdn.simpleicons.org/youtube" alt="YouTube" width="32" height="32" />
   </a>
 </p>
@@ -31,7 +30,7 @@
 
 - Build and scale backend systems (Perl, Python, Go, PHP, Node.js)  
 - Design CI/CD pipelines and automate workflows  
-- Architect AWS migrations, containers, and Kubernetes clusters  
+- Architect Linux, AWS migrations, containers, and Kubernetes clusters  
 - Debug performance issues and make systems observable  
 - Create CLI tools and small services for automation  
 
@@ -137,7 +136,7 @@ Past works: Backend development, Payment system modernization, **Keycloak + Priv
 - Designing container/Kubernetes architectures  
 - Building automation tools & CLIs  
 - Integrating AI into daily development  
-- Producing content for my YouTube tech channel  
+- Producing content for my tech channel  
 
 ---
 
