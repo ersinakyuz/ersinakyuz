@@ -40,6 +40,7 @@ Past works: Backend development, Payment system modernization, **Keycloak + Priv
 
 ## 💻 Tech Stack 
 
+
 ### 🧩 Languages & Runtimes
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" width="40" />
@@ -57,11 +58,12 @@ Past works: Backend development, Payment system modernization, **Keycloak + Priv
 <p>
   <img src="https://cdn.simpleicons.org/fastapi" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> <!-- React Native/Expo -->
+  <img src="https://cdn.simpleicons.org/expo" width="40"/> <!-- Expo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40"/> <!-- Nest.js -->
 </p>
 
-**Frameworks/Libraries:** FastAPI, Flask, Express, React Native
+**Frameworks/Libraries:** FastAPI, Flask, React Native, Expo, Nest.js
 
 ---
 
@@ -70,27 +72,31 @@ Past works: Backend development, Payment system modernization, **Keycloak + Priv
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/> <!-- MSSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/> <!-- Oracle -->
 </p>
 
-**Databases & Cache:** PostgreSQL, MariaDB, Redis
+**Databases & Cache:** PostgreSQL, MariaDB, Redis, MSSQL, Oracle
 
 ---
 
 ### ☁️ Infra, Cloud & Servers
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/> <!-- Apache -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/amazonaws" width="40"/> <!-- AWS fixed icon -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 </p>
 
-**Infra/Cloud:** Nginx, Docker, Kubernetes, AWS, Linux
+**Infra/Cloud:** Nginx, Apache, Docker, Kubernetes, AWS, Linux
 
 ---
 
 ### 🧰 DevOps & Tooling
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/> <!-- Jenkins first -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.simpleicons.org/githubactions" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/>
@@ -102,7 +108,7 @@ Past works: Backend development, Payment system modernization, **Keycloak + Priv
   <img src="https://cdn.simpleicons.org/ansible" width="40"/>
 </p>
 
-**Tooling:** Git, GitHub Actions, GitLab CI, Terraform, Helm, Prometheus, Grafana, Bash, Ansible
+**Tooling:** Jenkins, Git, GitHub Actions, GitLab CI, Terraform, Helm, Prometheus, Grafana, Bash, Ansible
 
 ---
 
